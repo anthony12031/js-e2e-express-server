@@ -27,3 +27,4 @@ This is a basic Express.js server used for JS Dev Experience documentation, in p
     ```bash
     npm start
     ```
+[![Build Status](https://dev.azure.com/anthony-personal/training/_apis/build/status/anthony12031.js-e2e-express-server?branchName=main)](https://dev.azure.com/anthony-personal/training/_build/latest?definitionId=1&branchName=main)
